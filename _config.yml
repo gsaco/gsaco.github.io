@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png" 
   name             : "Gabriel Saco" 
   pronouns         : # example: "she/her"  
-  bio              : "Economics - Machine Learning - Data Science - Finance"
+  bio              : "Economics and Finance - Machine Learning - Data Science"
   location         : "Lima, Perú" 
   employer         : "Universidad del Pacífico - LSE"
   uri              : # URL
@@ -72,9 +72,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-
-# Use the chosen theme
-remote_theme: pages-themes/cayman@v0.2.0
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
