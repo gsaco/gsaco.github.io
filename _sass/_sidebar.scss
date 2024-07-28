@@ -76,29 +76,31 @@
    Author profile and links
    ========================================================================== */
 
-.author__avatar {
-  display: table-cell;
-  vertical-align: top;
-  width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
-
-  @include breakpoint($large) {
-    display: block;
-    width: auto;
-    height: auto;
-  }
-
-  img {
-    max-width: 175px;
-    border-radius: 0;
-
+   .author__avatar {
+    display: table-cell;
+    vertical-align: top;
+    width: 50px; /* Aumenta el ancho inicial para pantallas pequeñas */
+  
     @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
+      display: block;
+      width: auto;
+      height: auto;
+    }
+  
+    img {
+      max-width: 200px; /* Aumenta el tamaño máximo de la imagen */
+      border-radius: 0;
+      padding: 10px; /* Aumenta el padding para más espacio alrededor de la imagen */
+      border: 2px solid $border-color; /* Ajusta el grosor del borde para mayor visibilidad */
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Añade una sombra sutil para darle profundidad */
+  
+      @include breakpoint($large) {
+        padding: 10px; /* Mantén el padding consistente en pantallas grandes */
+        border: 2px solid $border-color;
+      }
     }
   }
-}
+  
 
 .author__content {
   display: table-cell;
