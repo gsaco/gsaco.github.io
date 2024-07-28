@@ -73,7 +73,7 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-theme: minimal-mistakes-jekyll
+theme: minima
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
