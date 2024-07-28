@@ -73,7 +73,8 @@ author:
   youtube          : # Username
   zhihu            : # URL
 
-theme: minima
+# Use the chosen theme
+remote_theme: pages-themes/cayman@v0.2.0
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
