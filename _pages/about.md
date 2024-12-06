@@ -7,9 +7,11 @@ redirect_from:
   - /about.html 
 ---
 
-I’m currently diving deep into Economics at Universidad del Pacífico, where I specialize in Machine Learning applied to finance. My goal? To optimize decision-making through predictive analytics! I’m in my seventh semester and thrilled to be ranked in the top 20% of my program—plus, I've scored a perfect 20 in all my Machine Learning courses so far. I’ve even conducted some eye-opening data-driven econometric research on everything from financial markets to consumer behavior and industry competition in Peru. 
+I’m currently diving deep into Economics at Universidad del Pacífico, where I specialize in Machine Learning. My goal? To optimize decision-making through predictive analytics! I’ve even conducted some eye-opening data-driven econometric research on everything from financial markets to consumer behavior and industry competition in Peru. 
 
 On top of that, I’m also studying Economics and Finance at the University of London under the amazing guidance of the London School of Economics (which, by the way, is ranked 7th in the world for Economics). I was handpicked for this dual degree program out of over 900 students at Universidad del Pacífico, thanks to my academic excellence and stellar interview skills. I’m all about mastering economics and statistics.
+
+I am going to do my master degree in Statistics. 
 
 
 Website Sections
